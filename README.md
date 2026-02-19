@@ -1,12 +1,18 @@
 
 # Snake Game (Python)
 
-A classic Snake game built with Python.
+A classic Snake game built in Python.
 
 ## Features
 - Snake movement
 - Food spawning
 - Score system
-- Collision detection
+- Collision detection (walls and self)
 
-# keyboard- WSAD
+## How to run
+1. Download the project
+2. Open terminal in the folder
+3. Run:
+
+```bash
+python snake.py
