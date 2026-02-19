@@ -14,5 +14,9 @@ A classic Snake game built in Python.
 2. Open terminal in the folder
 3. Run:
 
+## Motivation
+
+I made this project to learn programming logic and problem-solving by building a simple game from scratch.
+
 ```bash
 python snake.py
