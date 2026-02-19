@@ -19,4 +19,4 @@ A classic Snake game built in Python.
 I made this project to learn programming logic and problem-solving by building a simple game from scratch.
 
 ```bash
-python snake.py
+python Snake.py
